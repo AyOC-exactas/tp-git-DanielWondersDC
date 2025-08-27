@@ -43,7 +43,7 @@ Si la pregunta se puede abstraer del detalle del código, enviarla al servidor d
 <!-- Describir el comportamiento actual del sistema o función al seguir los pasos indicados anteriormente. -->
 [COMPLETAR]
 
-## Cuál es el comportamiento *correcto* esperado?
+## Cuál es el comportamiento *correcto* esperadosdfasdf?
 <!-- Describir el comportamiento esperado del sistema o función al seguir los pasos indicados anteriormente. -->
 [COMPLETAR]
 
