@@ -10,7 +10,7 @@ pero trataremos de restringirnos a los casos de uso más comunes y al _workflow_
 
 ¿Qué es git? Citando a [su documentación](https://git-scm.com/):
 
-> Git es un sistema de **control de versiones** gratuito y de código abierto, diseñado para manejar proyectos de cualquier tamaño de manera veloz y eficiente.
+> Git es un sistema de **contrsfadasdfl de versiones** gratuito y de código abierto, diseñado para manejar proyectos de cualquier tamaño de manera veloz y eficiente.
 
 > ¿Qué es un control de versiones? Un control de versiones es un sistema que **registra los cambios realizados en un archivo o conjunto de archivos a lo largo del tiempo**, de modo que puedas recuperar versiones específicas más adelante.
 
